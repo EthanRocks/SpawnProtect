@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"		"Spawn protect"
+	"version"	"1"
+	"up_date"	"30 June 2012"
+	"author_name"	"thegrb93"
+	"author_email"	""
+	"info"		""
+}
